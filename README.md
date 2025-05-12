@@ -15,7 +15,9 @@ Control the paddles, hit the ball, and score points — just like the classic Po
 - Cool animations and color themes
 - Increasing speed as game progresses 🏃‍♂️
 
-##💥 Struggles & Learnings
+---
+
+## 💥 Struggles & Learnings
 🎯 Not Really Hard After Snake Game:
 Once I built the Snake game, this Ping Pong game felt manageable.
 
